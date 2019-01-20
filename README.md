@@ -7,7 +7,7 @@ npm init --yes
 
 This will start an npm project
 
-Install express
+Install express<br>
 npm install express
 
 Configure first version of index.js
@@ -33,4 +33,16 @@ Folder server:
 	- routes
 	- index.js
 	- database.js // configuration file for database
+
+
+//POSTMAN
+To do a POST request, POSTMAN
+
+//Error address in use. Find process and kill
+sudo lsof -iTCP -sTCP:LISTEN -P
+
+//FRONTEND
+ng new frontend   //generates Angular project
+
+
 
